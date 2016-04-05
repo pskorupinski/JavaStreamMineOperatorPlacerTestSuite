@@ -1,1 +1,3 @@
 # JavaStreamMineOperatorPlacerTestSuite
+
+Test entry for JavaStreamMineOperatorPlacer
